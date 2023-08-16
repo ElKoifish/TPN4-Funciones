@@ -12,7 +12,7 @@ int resistencia (int R1, int R2, int R3, int R4, int R5){
 
 int main()
 {
-	int R1,R2,R3,R4,R5;
+	int R1,R2,R3,R4,R5;//Utilizar estructuras repetitivas para la carga.
 	printf("Ingrese R1: ");
 	scanf("%d",&R1);
 	printf("Ingrese R2: ");
